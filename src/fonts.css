@@ -1,0 +1,28 @@
+@font-face {
+    font-family: 'GR' ;
+    src: url(../src/fonts/GrtskPeta-Regular.ttf);
+    font-weight: 400;
+}
+@font-face {
+    font-family: 'GM' ;
+    src: url(../src/fonts/GrtskPeta-Medium.ttf);
+}
+@font-face {
+    font-family: 'GB' ;
+    src: url(../src/fonts/GrtskPeta-Bold.ttf);
+}
+@font-face {
+    font-family: 'RR' ;
+    src: url(../src/fonts/Roboto-Regular.ttf);
+    font-weight: 400;
+}
+@font-face {
+    font-family: 'RM' ;
+    src: url(../src/fonts/Roboto-Medium.ttf);
+    font-weight: 500;
+}
+@font-face {
+    font-family: 'RB' ;
+    src: url(../src/fonts/Roboto-Bold.ttf);
+    font-weight: 600;
+}
